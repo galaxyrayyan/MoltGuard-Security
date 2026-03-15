@@ -16,7 +16,12 @@ I've developed **MoltGuard**, a mobile security orchestrator that leverages the 
 * **[MIT License](LICENSE)** - Open for community contribution and safety research.
 
 ## 📸 Preview
-*Screenshots of the security dashboard and real-time auditing interface will be uploaded soon.*
+<p align="center">
+  <img src="screenshots/Screenshot_20260315-212351.jpg" width="350" alt="MoltGuard Threat Detection">
+  <img src="screenshots/Screenshot_20260315-212402.jpg" width="350" alt="MoltGuard Recommendations">
+</p>
+
+*MoltGuard in action: Identifying a sophisticated social engineering attempt and providing AI-driven mitigation strategies.*
 
 ---
 *Note: This project showcases the cutting-edge application of Gemini 2.5 Flash in the field of AI safety and mobile security guardrails. It aims to empower users with a transparent layer of protection in an AI-driven world.*
