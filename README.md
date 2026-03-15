@@ -9,6 +9,11 @@ I've developed **MoltGuard**, a mobile security orchestrator that leverages the 
 * **Security-First UX:** Provides actionable insights for users to mitigate AI-driven security risks.
 * **Identity Protection:** Specialized logic to prevent PII leaks during AI conversations.
 
+## 🗺️ Future Roadmap
+We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade security monitoring. 
+🚀 **[View our detailed Roadmap here](ROADMAP.md)**
+
+
 ## 🛠️ Built With
 * **[Flutter](https://flutter.dev)** - The core cross-platform framework for mobile development.
 * **[Google Gemini 2.5 Flash](https://ai.google.dev)** - Utilizing the latest generation of Flash models for advanced safety.
