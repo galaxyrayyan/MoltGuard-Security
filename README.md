@@ -17,8 +17,8 @@ I've developed **MoltGuard**, a mobile security orchestrator that leverages the 
 
 ## 📸 Preview
 <p align="center">
-  <img src="screenshots/Screenshot_20260315-212351.jpg" width="350" alt="MoltGuard Threat Detection">
-  <img src="screenshots/Screenshot_20260315-212402.jpg" width="350" alt="MoltGuard Recommendations">
+  <img src="Screenshot_20260315-212351.jpg" width="350" alt="MoltGuard Threat Detection">
+  <img src="Screenshot_20260315-212402.jpg" width="350" alt="MoltGuard Recommendations">
 </p>
 
 *MoltGuard in action: Identifying a sophisticated social engineering attempt and providing AI-driven mitigation strategies.*
