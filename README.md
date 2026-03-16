@@ -1,5 +1,7 @@
 # 🛡️ MoltGuard: AI Security Orchestrator
 
+If you find this project useful, please consider giving it a ⭐ to support its development!
+
 I've developed **MoltGuard**, a mobile security orchestrator that leverages the high-performance **Gemini 2.5 Flash** to perform real-time behavioral auditing on AI agent interactions. It’s designed to bridge the gap between LLM capabilities and end-user safety by identifying prompt injections and data leaks before they escalate. Focused on the **'Purple Llama'** philosophy of open and secure AI.
 
 ## 🚀 Key Features
@@ -19,6 +21,8 @@ We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade sec
 * **[Google Gemini 2.5 Flash](https://ai.google.dev)** - Utilizing the latest generation of Flash models for advanced safety.
 * **[FlutLab](https://flutlab.io)** - The online IDE used for rapid development and cloud-based orchestration.
 * **[MIT License](LICENSE)** - Open for community contribution and safety research.
+
+⚠️ **Disclaimer:** This tool is for educational and research purposes only. Always use AI responsibly.
 
 ## 📸 Preview
 <p align="center">
