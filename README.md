@@ -51,11 +51,6 @@ We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade sec
 
 ⚠️ **Disclaimer:** This tool is for educational and research purposes only. Always use AI responsibly.
 
-## 📸 Preview
-<p align="center">
-  <img src="Screenshot_20260315-212351.jpg" width="350" alt="MoltGuard Threat Detection">
-  <img src="Screenshot_20260315-212402.jpg" width="350" alt="MoltGuard Recommendations">
-</p>
 
 *MoltGuard in action: Identifying a sophisticated social engineering attempt and providing AI-driven mitigation strategies.*
 
