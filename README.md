@@ -1,15 +1,42 @@
 # 🛡️ MoltGuard: AI Security Orchestrator
 
+[![Flutter](https://img.shields.io/badge/Framework-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
+[![Gemini 2.5 Flash](https://img.shields.io/badge/AI-Gemini%202.5%20Flash-orange?logo=google-gemini&logoColor=white)](https://ai.google.dev)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 If you find this project useful, please consider giving it a ⭐ to support its development!
 
-I've developed **MoltGuard**, a mobile security orchestrator that leverages the high-performance **Gemini 2.5 Flash** to perform real-time behavioral auditing on AI agent interactions. It’s designed to bridge the gap between LLM capabilities and end-user safety by identifying prompt injections and data leaks before they escalate. Focused on the **'Purple Llama'** philosophy of open and secure AI.
+**MoltGuard** is a cutting-edge mobile security orchestrator powered by the next-generation **Gemini 2.5 Flash**. It performs high-speed behavioral auditing on AI interactions to detect prompt injections, malware patterns, and data leaks with unprecedented reasoning capabilities.
 
-## 🚀 Key Features
-* **Extreme Intelligence:** Powered by **Gemini 2.5 Flash** for lightning-fast, deep-reasoning security auditing.
-* **Real-time Intent Analysis:** Instant detection of sophisticated حmalicious intent in complex prompts.
-* **Behavioral Auditing:** Detects deceptive patterns, jailbreak attempts, and cross-language injection attacks.
-* **Security-First UX:** Provides actionable insights for users to mitigate AI-driven security risks.
-* **Identity Protection:** Specialized logic to prevent PII leaks during AI conversations.
+## 🚀 Key Features (Powered by Gemini 2.5 Flash)
+* **Extreme Reasoning Speed:** Leveraging the ultra-fast **Gemini 2.5 Flash** for real-time threat analysis without latency.
+* **Lux Loading Radar:** A premium security scanning animation for an immersive "Cybersecurity" experience.
+* **Smart Risk Classification:** Internal logic that auto-calculates threat levels (Critical, High, Medium, Low) ensuring no "Unknown" results.
+* **Professional PDF Audits:** Generate detailed security reports with **QR Code verification**, powered by deep AI insights.
+* **Modular Clean Architecture:** Organized into a professional **Service Layer** (Models, Services, Screens) for enterprise scalability.
+
+## 📸 Preview
+<p align="center">
+  <img src="scan 1.jpg" width="280" alt="AI Radar Scanning">
+  <img src="threat.jpg" width="280" alt="Threat Analysis Result">
+  <img src="pdf report.jpg" width="280" alt="PDF Export Feature">
+</p>
+
+<p align="center">
+  <img src="Dashboard.jpg" width="280" alt="Security Dashboard">
+  <img src="history.jpg" width="280" alt="Scan History">
+</p>
+
+*MoltGuard in action: Real-time auditing and professional reporting powered by Gemini 2.5 Flash.*
+
+## 📂 Project Structure
+```text
+lib/
+├── models/      # Data Structures & Smart Fallback Logic
+├── services/    # AI Service (Gemini 2.5), Export (PDF), & Storage
+├── screens/     # Premium UI Components
+└── main.dart    # Application entry point
+
 
 ## 🗺️ Future Roadmap
 We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade security monitoring. 
