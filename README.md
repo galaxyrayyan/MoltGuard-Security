@@ -37,7 +37,7 @@ lib/
 ├── screens/     # Premium UI Components
 └── main.dart    # Application entry point
 
-'''
+---
 ## 🗺️ Future Roadmap
 We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade security monitoring. 
 🚀 **[View our detailed Roadmap here](ROADMAP.md)**
