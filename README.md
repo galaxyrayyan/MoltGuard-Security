@@ -36,23 +36,25 @@ lib/
 ├── services/    # AI Service (Gemini 2.5), Export (PDF), & Storage
 ├── screens/     # Premium UI Components
 └── main.dart    # Application entry point
+```
 
----
 ## 🗺️ Future Roadmap
 We have ambitious plans for MoltGuard! From on-device ML to enterprise-grade security monitoring. 
 🚀 **[View our detailed Roadmap here](ROADMAP.md)**
 
+---
 
 ## 🛠️ Built With
-* **[Flutter](https://flutter.dev)** - The core cross-platform framework for mobile development.
-* **[Google Gemini 2.5 Flash](https://ai.google.dev)** - Utilizing the latest generation of Flash models for advanced safety.
-* **[FlutLab](https://flutlab.io)** - The online IDE used for rapid development and cloud-based orchestration.
+* **[Flutter](https://flutter.dev)** - High-performance core cross-platform framework.
+* **[Gemini 2.5 Flash](https://ai.google.dev)** - Utilizing the next generation of AI for advanced safety auditing.
+* **[FlutLab](https://flutlab.io)** - Professional cloud IDE used for rapid development and orchestration.
 * **[MIT License](LICENSE)** - Open for community contribution and safety research.
 
-⚠️ **Disclaimer:** This tool is for educational and research purposes only. Always use AI responsibly.
+---
 
-
-*MoltGuard in action: Identifying a sophisticated social engineering attempt and providing AI-driven mitigation strategies.*
+## ⚠️ Disclaimer
+*This tool is for educational and research purposes only. Always use AI responsibly and ensure you comply with data privacy regulations.*
 
 ---
-*Note: This project showcases the cutting-edge application of Gemini 2.5 Flash in the field of AI safety and mobile security guardrails. It aims to empower users with a transparent layer of protection in an AI-driven world.*
+
+> **Note:** This project showcases the cutting-edge application of **Gemini 2.5 Flash** in the field of AI safety and mobile security guardrails. It aims to empower users with a transparent layer of protection in an AI-driven world.
