@@ -8,6 +8,28 @@ If you find this project useful, please consider giving it a ⭐ to support its 
 
 **MoltGuard** is a cutting-edge mobile security orchestrator powered by the next-generation **Gemini 2.5 Flash**. It performs high-speed behavioral auditing on AI interactions to detect prompt injections, malware patterns, and data leaks with unprecedented reasoning capabilities.
 
+## ⚙️ Quick Setup & API Configuration
+To get started with MoltGuard, follow these steps:
+
+1. **Obtain API Key:** Get your free API key from [Google AI Studio](https://aistudio.google.com/).
+2. **Environment Setup:** Create a `.env` file in the root directory.
+3. **Add Key:** Add your key to the file: `GEMINI_API_KEY=your_key_here`.
+4. **Run:** Execute `flutter run` in your terminal.
+
+---
+
+## 🧠 How the Security Analysis Works
+MoltGuard acts as a middleware between the user and the LLM. 
+
+1. **Input Sanitization:** User prompts are intercepted.
+2. **Behavioral Auditing:** Gemini 2.5 Flash analyzes the intent (detecting Jailbreaks, PII Leaks, or Malicious Code).
+3. **Structured Response:** The AI returns a precise JSON object containing:
+    - `overallRiskScore`: Numerical value (0-100).
+    - `vulnerabilities`: Detailed list of detected threats.
+4. **Actionable Output:** Users receive a visual risk level and a downloadable PDF report.
+---
+
+
 ## 🚀 Key Features (Powered by Gemini 2.5 Flash)
 * **Extreme Reasoning Speed:** Leveraging the ultra-fast **Gemini 2.5 Flash** for real-time threat analysis without latency.
 * **Lux Loading Radar:** A premium security scanning animation for an immersive "Cybersecurity" experience.
